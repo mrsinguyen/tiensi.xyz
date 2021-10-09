@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
-title: ["tiensi.xyz"]
-description: ["A personal website for saving things"]
-github:  
+title: tiensi.xyz
+description: A personal website for saving things
+github:
+  is_project_page: false
